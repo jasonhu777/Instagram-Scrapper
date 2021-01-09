@@ -1,2 +1,2 @@
 # Instagram-Scrapper
-![DEMO GIF](https://imgur.com/PwrAro0)
+![DEMO GIF](https://i.imgur.com/PwrAro0.mp4)
