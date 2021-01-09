@@ -1,4 +1,6 @@
 # Instagram-Scrapper
+Full Demo Video (2 mins): https://youtu.be/Q9Efai3DPck
+
 Developed a web scrapper using Python, Selenium, time, apscheduler and built GUI using tkinter
 
 
